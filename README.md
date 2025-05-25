@@ -1,40 +1,49 @@
+````markdown
 # 🚀 Project Tracker
 
-A React + Firebase app for tracking users and tasks with authentication and a dashboard interface.
+A React + Firebase app to manage users and tasks with secure authentication and a clean dashboard.
 
-## 🔧 Features
-- 🔐 Firebase Auth (Login & Signup)
-- 📋 Dashboard for task/user management
-- 🔄 Add, Edit, Delete users
-- 🛡️ Protected Routes with React Router
+---
 
-## 🛠 Tech Stack
-- React
-- Firebase (Auth + Firestore)
-- React Router
+## Features
 
-## ▶️ Getting Started
+- 🔐 Firebase Authentication (Login & Signup)  
+- 📋 User & Task Management (Add, Edit, Delete)  
+- 🛡️ Protected Routes with React Router  
 
-1. **Clone & Install**
+---
+
+## Tech Stack
+
+- React  
+- Firebase (Auth & Firestore)  
+- React Router  
+
+---
+
+## Getting Started
+
+1. Clone and install dependencies:
    ```bash
    git clone https://github.com/yourusername/project-tracker.git
    cd project-tracker
    npm install
 ````
 
-2. **Firebase Setup**
+2. Setup Firebase:
 
-   * Create a Firebase project
-   * Enable Auth + Firestore
-   * Add `.env` with your config
+   * Create a Firebase project with Auth & Firestore enabled.
+   * Add your Firebase config in a `.env` file.
 
-3. **Run**
+3. Run the app:
 
    ```bash
    npm start
    ```
 
-## 🔐 Firebase Rules Example
+---
+
+## Firebase Rules
 
 ```js
 rules_version = '2';
@@ -49,7 +58,6 @@ service cloud.firestore {
 
 ---
 
-Built with ❤️ by \[Deepansh Vishwakarma]
+Made by **Deepansh Vishwakarma**
 
-```
 
