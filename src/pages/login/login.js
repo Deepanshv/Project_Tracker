@@ -148,7 +148,7 @@ const SignIn = () => {
                 <Grid item>
                   <Typography variant="body2">
                     Don't have an account?{" "}
-                    <Link href="/register" variant="body2">
+                    <Link href="/Signup" variant="body2">
                       Sign Up
                     </Link>
                   </Typography>
