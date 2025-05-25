@@ -5,7 +5,7 @@ import Login from "./pages/login/login";
 import Dashboard from "./pages/dashboard/dashboard";
 import "./App.css";
 import PostUser from "./pages/post-user/PostUser";
-import UpdateUser from "./update-user/UpdateUser";
+import UpdateUser from "./pages/update-user/UpdateUser";
 import { useAuth } from "./pages/hooks/useAuth";
 
 function App() {
