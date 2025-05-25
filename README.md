@@ -1,8 +1,3 @@
-Here’s a **short and clean `README.md`** for your project:
-
----
-
-````markdown
 # 🚀 Project Tracker
 
 A React + Firebase app for tracking users and tasks with authentication and a dashboard interface.
