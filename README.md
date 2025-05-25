@@ -58,7 +58,3 @@ Built with ❤️ by \[Deepansh Vishwakarma]
 
 ```
 
----
-
-Let me know if you'd like to auto-fill your name, GitHub link, or Firebase project ID.
-```
